@@ -1,1 +1,1 @@
-This folder contains raw ingested data (CSV, JSON, Parquet).
+01_raw/sql/create_raw_tables.sql
